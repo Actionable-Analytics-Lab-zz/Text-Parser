@@ -1,2 +1,2 @@
-# Current Version of Text Parser is V5.
-# Use the files in the repository to test the program.
+# Current Version of the Text Parser is v5.
+# Use the files in the repository (HansaMarketFullFiles.zip) to test the program.
